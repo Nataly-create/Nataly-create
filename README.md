@@ -54,5 +54,7 @@ Weitere Projekte findest du in meinen Repositories.
 
 - **E-Mail:** yanatalia19@outlook.com  
 
+---
+
 Ich freue mich über Austausch, Feedback oder gemeinsame Projekte!
 
