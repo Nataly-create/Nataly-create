@@ -46,7 +46,9 @@ Ich arbeite strukturiert, analytisch und lege großen Wert auf sauberen, gut nac
 - Visualisierung von Trends und Mustern  
 - Jupyter Notebook Dokumentation
 
-Weitere Projekte findest du in meinen Repositories.
+---
+
+#### Weitere Projekte findest du in meinen Repositories.
 
 ---
 
